@@ -1,16 +1,23 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**lbrugnagodamaia/lbrugnagodamaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### Bio
 
-Here are some ideas to get you started:
+Adquirir experiência e evoluir minhas habilidades em análise e desenvolvimento de sistemas, e trabalho em equipe. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lbrugnagodamaia&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+# Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lbrugnagodamaia&repo=jornadadev.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
+# Contatos
+
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/lucasbrugnagodamaia)
